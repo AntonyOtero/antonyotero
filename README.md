@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Antony Otero 👋
 
-I'm Antony — a front-end developer based in New Jersey, USA. I'm currently looking for remote work opportunities. ( [Learn more about me](https://antonyotero.com/) )
+I'm a Front-End Developer based in New Jersey, USA. I'm currently looking for remote work opportunities. ( [Learn more about me](https://www.antonyotero.com/) )
 
 **📜 My education includes:**
 - FreeCodeCamp
