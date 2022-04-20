@@ -3,12 +3,10 @@
 I'm a Front-End Developer based in New Jersey, USA. I'm currently looking for remote work opportunities. ( [Learn more about me](https://www.antonyotero.com/) )
 
 **📜 My education includes:**
-- FreeCodeCamp
-  - *[Responsive Web Design](https://freecodecamp.org/certification/antonyotero/responsive-web-design)* - Jul 2018
-  - *[JavaScript Algorithms & Data Structures](https://freecodecamp.org/certification/antonyotero/javascript-algorithms-and-data-structures)* - Aug 2020
-  - *[Front-End Libraries](https://freecodecamp.org/certification/antonyotero/front-end-development-libraries)* - Mar 2022
-- Scrimba
-  - *[Frontend Career Path](https://scrimba.com/certificate/uPWZmcV/gfrontend)* - Apr 2022
+- *[Responsive Web Design](https://freecodecamp.org/certification/antonyotero/responsive-web-design)* - Jul 2018
+- *[JavaScript Algorithms & Data Structures](https://freecodecamp.org/certification/antonyotero/javascript-algorithms-and-data-structures)* - Aug 2020
+- *[Front-End Libraries](https://freecodecamp.org/certification/antonyotero/front-end-development-libraries)* - Mar 2022
+- *[Frontend Career Path](https://scrimba.com/certificate/uPWZmcV/gfrontend)* - Apr 2022
 
 **🌱 I’m currently learning ...**
 <p>
